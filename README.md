@@ -1,5 +1,5 @@
 
-<h1 align="center"><u>  Welcome to Stepnext-Solution </u></h1>
+<h1 align="center"> Welcome to Stepnext-Solution </h1>
 
 
 <h4 align="center"> 💻 Code ⚡ Connect ✨ Create </h4>
@@ -29,7 +29,7 @@ We welcome contributions to our **open source projects**:
 2. Make your changes  
 3. Submit a pull request
 
-<h3 align="center">**We value community collaboration.Your contributions help us grow, supporting our mission to create software that makes technology simple and useful.** </h3>
+<h3 align="center">We value community collaboration.Your contributions help us grow, supporting our mission to create software that makes technology simple and useful.</h3>
 
 
 ## Contact Us
