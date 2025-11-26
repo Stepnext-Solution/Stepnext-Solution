@@ -3,9 +3,7 @@
 <h1 align="center">  #Welcome to Stepnext-Solution </h1>
 
 
-
-
-**Stepnext-Solution** is a tech company that creates innovative software and digital solutions.
+<p align="center"> **Stepnext-Solution** is a tech company that creates innovative software and digital solutions. </p>
 
 **
 
