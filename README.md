@@ -14,10 +14,11 @@
 - **Open-Source Projects** – Explore and contribute to public code repositories.
 - **Software Engineering** – Create software that is easy to use and works efficiently.
 
+
 ## Technologies We Work With
 - **Frontend:** HTML, CSS, JavaScript 
 - **Backend:** Node.js, Python, PHP
-- **Framework:** React, Tailwind  
+- **Framework:** React, Bootstrap, Tailwind  
 - **Databases:** MySQL, FireBase, MongoDB  
 - **Tools & Platforms:** Git, GitHub, Visual Studio Code 
 
